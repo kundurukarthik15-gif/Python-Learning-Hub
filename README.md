@@ -24,5 +24,5 @@ Each project focuses on building logic, learning libraries, and creating fun or 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kundurukarthik15-gif/Python-Projects.git
+  https://github.com/kundurukarthik15-gif/Python-Learning-Hub.git
 
