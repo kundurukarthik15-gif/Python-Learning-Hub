@@ -16,9 +16,7 @@ Each project focuses on different Python concepts such as logic building, librar
 | 🎰 **Casino Game** | A fun terminal-based number guessing game (basic probability and random module). |
 | 🔳 **QR Code Generator** | Generates QR codes from URLs or text using the `qrcode` Python library. |
 | 📶 **Wi-Fi Password Viewer** | Fetches saved Wi-Fi passwords from your system (Windows). |
-| 🔢 **Calculator** | Basic arithmetic calculator using Python functions. |
-| 🕹️ **Rock Paper Scissors** | Classic hand game built with random choices. |
-| 🎲 **Dice Roller** | Simple dice rolling simulator using `random.randint()`. |
+|    **Guess the number game 
 
 ---
 
